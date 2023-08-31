@@ -1,0 +1,1 @@
+La banda de la máquina puede ser movida cambiando el offset en el eje X del material "Banda" hacia números negativos
